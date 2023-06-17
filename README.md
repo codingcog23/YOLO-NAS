@@ -10,6 +10,16 @@ YOLO-NAS is a state-of-the-art object detection model generated using Deci's Neu
 
 ![yolo_nas_frontier](https://github.com/KrishArul26/Forcated-the-BitCoin-price-using-Deep-Learning/assets/74568334/61cd63e1-e471-483f-bf93-68593f1cf6b5)
 
+📊 YOLO-NAS has demonstrated superior performance on the COCO dataset, achieving higher mean Average Precision (mAP) values at lower latencies. Its groundbreaking capabilities have been showcased through benchmarking, showcasing its remarkable ability to detect objects in real-time scenarios.
+
+🔬 Developed and maintained by Deci, YOLO-NAS is now part of the super-gradients package, offering an efficient and optimized architecture for real-time object detection. This neural architecture search technology has revolutionized the process of finding the most optimal model architecture for a given problem.
+
+🏆 The results speak for themselves! In comparison to other real-time detectors, YOLO-NAS has shown a significant improvement, outperforming YOLOv8 and YOLOv7 by approximately 0.5 mAP points while achieving 10-20% faster inference times. These advancements have the potential to redefine the landscape of real-time object detection.
+
+⭐️ Additionally, YOLO-NAS has proven its mettle on the Roboflow 100 dataset benchmark, showcasing its adaptability and ease of fine-tuning on custom datasets. This opens up exciting possibilities for various industries, enabling accurate and efficient object detection in real-world scenarios.
+
+📝 Are you curious to learn more about YOLO-NAS and how to fine-tune it on your custom dataset? I invite you to check out our comprehensive tutorial, where we explore the step-by-step process. We have even prepared a Google Colab notebook for your convenience.
+
 ## 💡 About Deci
 
 Deci is a leading AI company focused on revolutionizing deep learning model optimization and inference. Our mission is to empower AI teams by providing them with cutting-edge tools and technologies that remove development barriers and enable efficient inference performance.
@@ -53,3 +63,6 @@ If you have any questions, feedback, or inquiries, please feel free to contact u
 Join us on our journey of advancing object detection and making AI more efficient!
 
 **Note:** This README file provides an overview of YOLO-NAS. For more detailed instructions, refer to the documentation available in the repository.
+
+
+#YOLO #ObjectDetection #YOLO-NAS #ComputerVision #NeuralArchitectureSearch #RealTimeDetection #MachineLearning #ArtificialIntelligence #DeepLearning
